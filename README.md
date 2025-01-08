@@ -8,8 +8,9 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="vertical-align: top; padding-top: 10px;">
-      <strong>Frontend</strong>
+      <strong>Fullstack</strong>
       <ul>
+        <!-- Frontend -->
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=ffffff" alt="" /> HTML</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=ffffff" alt="" /> CSS</a></li>
         <li><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-SCSS-ff69b4?logo=sass&logoColor=ffffff" alt="" /> SCSS</a></li>
@@ -21,11 +22,7 @@
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=ffffff" alt="" /> JavaScript</a></li>
         <li><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=ffffff" alt="" /> TypeScript</a></li>
         <li><a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-e23237?logo=angular&logoColor=ffffff" alt="Angular" /> Angular</a></li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; padding-top: 10px;">
-      <strong>Backend</strong>
-      <ul>
+        <!-- Backend -->
         <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-512bd4?logo=c-sharp&logoColor=ffffff" alt="" /> C#</a></li>
         <li><a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=ffffff" alt="" /> ASP.NET</a></li>
         <li><a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-DotNET-512bd4?logo=.net&logoColor=ffffff" alt="" /> .NET</a></li>
@@ -34,6 +31,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ### Database
