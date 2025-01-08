@@ -19,6 +19,8 @@
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=ffffff" alt="JavaScript" /> JavaScript</a></li>
         <li><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=ffffff" alt="TypeScript" /> TypeScript</a></li>
         <li><a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-e23237?logo=angular&logoColor=ffffff" alt="Angular" /> Angular</a></li>
+        <li><a href="https://animejs.com/"><img src="https://img.shields.io/badge/-Anime.js-00ff00?logo=anime.js&logoColor=ffffff" alt="Anime.js" /> Anime.js</a></li>
+        <li><a href="https://regexr.com/"><img src="https://img.shields.io/badge/-Regex-ff6347?logo=regex&logoColor=ffffff" alt="Regex" /> Regex</a></li>
       </ul>
     </td>
     <td>
@@ -39,6 +41,7 @@
 ### Version Control
 - <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=ffffff" alt="Git" /> Git</a>
 - <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff" alt="GitHub" /> GitHub</a>
+
 
 
 
