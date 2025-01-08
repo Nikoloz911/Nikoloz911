@@ -1,8 +1,4 @@
-
-
-**Profile Views:** ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nikoloz911)
-
-
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nikoloz911)
 
 ### Full-Stack Web Development  
 ### Languages and Tools:  
