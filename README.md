@@ -1,11 +1,8 @@
 
-<div style="background-color: gray; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
-  <strong>Profile Views:</strong> 
- ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nikoloz911)>
-</div>
+
+**Profile Views:** ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nikoloz911)
 
 
- ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nikoloz911)
 
 ### Full-Stack Web Development  
 ### Languages and Tools:  
