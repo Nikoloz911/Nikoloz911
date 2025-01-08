@@ -11,22 +11,22 @@
       <strong>Fullstack</strong>
       <ul>
         <!-- Frontend -->
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=ffffff" alt="" /> </a>HTML</li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=ffffff" alt="" /> </a>CSS</li>
-        <li><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-SCSS-ff69b4?logo=sass&logoColor=ffffff" alt="" /> </a>SCSS</li>
-        <li><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=ffffff" alt="" /> </a>Bootstrap</li>
-        <li><a href="https://css3generator.com/"><img src="https://img.shields.io/badge/-CSS3%20Generator-38b2ac?logo=css3&logoColor=ffffff" alt="" /> </a>CSS3 Generator</li>
-        <li><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwindcss&logoColor=ffffff" alt="" /> </a>Tailwind CSS</li>
-        <li><a href="https://animejs.com/"><img src="https://img.shields.io/badge/-Anime.js-00ff00?logo=anime.js&logoColor=ffffff" alt="" /> </a>Anime.js</li>
-        <li><a href="https://regexr.com/"><img src="https://img.shields.io/badge/-Regex-ff6347?logo=regex&logoColor=ffffff" alt="" /> </a>Regex</li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=ffffff" alt="" /> </a>JavaScript</li>
-        <li><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=ffffff" alt="" /> </a>TypeScript</li>
-        <li><a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-e23237?logo=angular&logoColor=ffffff" alt="Angular" /> </a>Angular</li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=ffffff" alt="" /></a> HTML</li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=ffffff" alt="" /></a> CSS</li>
+        <li><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-SCSS-ff69b4?logo=sass&logoColor=ffffff" alt="" /></a> SCSS</li>
+        <li><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=ffffff" alt="" /></a> Bootstrap</li>
+        <li><a href="https://css3generator.com/"><img src="https://img.shields.io/badge/-CSS3%20Generator-38b2ac?logo=css3&logoColor=ffffff" alt="" /></a> CSS3 Generator</li>
+        <li><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwindcss&logoColor=ffffff" alt="" /></a> Tailwind CSS</li>
+        <li><a href="https://animejs.com/"><img src="https://img.shields.io/badge/-Anime.js-00ff00?logo=anime.js&logoColor=ffffff" alt="" /></a> Anime.js</li>
+        <li><a href="https://regexr.com/"><img src="https://img.shields.io/badge/-Regex-ff6347?logo=regex&logoColor=ffffff" alt="" /></a> Regex</li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=ffffff" alt="" /></a> JavaScript</li>
+        <li><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=ffffff" alt="" /></a> TypeScript</li>
+        <li><a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-e23237?logo=angular&logoColor=ffffff" alt="Angular" /></a> Angular</li>
         <!-- Backend -->
-        <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-512bd4?logo=c-sharp&logoColor=ffffff" alt="" /> </a>C#</li>
-        <li><a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=ffffff" alt="" /> </a>ASP.NET</li>
-        <li><a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-DotNET-512bd4?logo=.net&logoColor=ffffff" alt="" /> </a>.NET</li>
-        <li><a href="https://learn.microsoft.com/en-us/ef/"><img src="https://img.shields.io/badge/-Entity%20Framework-7d3c98?logo=entity-framework&logoColor=ffffff" alt="" /> </a>Entity Framework</li>
+        <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-512bd4?logo=c-sharp&logoColor=ffffff" alt="" /></a> C#</li>
+        <li><a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=ffffff" alt="" /></a> ASP.NET</li>
+        <li><a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-DotNET-512bd4?logo=.net&logoColor=ffffff" alt="" /></a> .NET</li>
+        <li><a href="https://learn.microsoft.com/en-us/ef/"><img src="https://img.shields.io/badge/-Entity%20Framework-7d3c98?logo=entity-framework&logoColor=ffffff" alt="" /></a> Entity Framework</li>
       </ul>
     </td>
   </tr>
