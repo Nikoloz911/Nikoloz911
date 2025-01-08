@@ -10,7 +10,7 @@
     <td style="vertical-align: top; padding-top: 10px;">
       <strong>Frontend</strong>
       <ul>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=ffffff" alt="HTML5" /> HTML</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=ffffff" alt="HTML5" /></a>HTML</li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=ffffff" alt="CSS3" /> CSS</a></li>
         <li><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-SCSS-ff69b4?logo=sass&logoColor=ffffff" alt="SCSS" /> SCSS</a></li>
         <li><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=ffffff" alt="Bootstrap" /> Bootstrap</a></li>
@@ -37,11 +37,11 @@
 
 
 ### Database
-- <a href="https://www.microsoft.com/en-us/sql-server" style="color: inherit; text-decoration: none;"><img src="https://img.shields.io/badge/-SQL-4479a1?logo=microsoftsqlserver&logoColor=ffffff" alt="SQL" /> SQL</a>
+- <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/-SQL-4479a1?logo=microsoftsqlserver&logoColor=ffffff" alt="SQL" /> SQL</a>
 
 ### Version Control
-- <a href="https://git-scm.com/" style="color: inherit; text-decoration: none;"><img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=ffffff" alt="Git" /> Git</a>
-- <a href="https://github.com/" style="color: inherit; text-decoration: none;"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff" alt="GitHub" /> GitHub</a>
+- <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=ffffff" alt="Git" /> Git</a>
+- <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff" alt="GitHub" /> GitHub</a>
 
 
 
