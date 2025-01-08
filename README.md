@@ -5,43 +5,41 @@
 
 ## Languages and Tools
 
-## Languages and Tools
-
 <table>
   <tr>
     <td>
       <strong>Frontend</strong>
       <ul>
-        <li>![HTML5](https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=ffffff) HTML</li>
-        <li>![CSS3](https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=ffffff) CSS</li>
-        <li>![SCSS](https://img.shields.io/badge/-SCSS-ff69b4?logo=sass&logoColor=ffffff) SCSS</li>
-        <li>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=ffffff) Bootstrap</li>
-        <li>![CSS3 Generator](https://img.shields.io/badge/-CSS3%20Generator-38b2ac?logo=css3&logoColor=ffffff) CSS3 Generator</li>
-        <li>![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwindcss&logoColor=ffffff) Tailwind CSS</li>
-        <li>![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=ffffff) JavaScript</li>
-        <li>![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=ffffff) TypeScript</li>
-        <li>![Angular](https://img.shields.io/badge/-Angular-e23237?logo=angular&logoColor=ffffff) Angular</li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=ffffff" alt="HTML5" /> HTML</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=ffffff" alt="CSS3" /> CSS</a></li>
+        <li><a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-SCSS-ff69b4?logo=sass&logoColor=ffffff" alt="SCSS" /> SCSS</a></li>
+        <li><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=ffffff" alt="Bootstrap" /> Bootstrap</a></li>
+        <li><a href="https://css3generator.com/"><img src="https://img.shields.io/badge/-CSS3%20Generator-38b2ac?logo=css3&logoColor=ffffff" alt="CSS3 Generator" /> CSS3 Generator</a></li>
+        <li><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" /> Tailwind CSS</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=ffffff" alt="JavaScript" /> JavaScript</a></li>
+        <li><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=ffffff" alt="TypeScript" /> TypeScript</a></li>
+        <li><a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-e23237?logo=angular&logoColor=ffffff" alt="Angular" /> Angular</a></li>
       </ul>
     </td>
     <td>
       <strong>Backend</strong>
       <ul>
-        <li>![C#](https://img.shields.io/badge/-C%23-512bd4?logo=c-sharp&logoColor=ffffff) C#</li>
-        <li>![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=ffffff) ASP.NET</li>
-        <li>![DotNET](https://img.shields.io/badge/-DotNET-512bd4?logo=.net&logoColor=ffffff) .NET</li>
-        <li>![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-7d3c98?logo=entity-framework&logoColor=ffffff) Entity Framework</li>
+        <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-512bd4?logo=c-sharp&logoColor=ffffff" alt="C#" /> C#</a></li>
+        <li><a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=ffffff" alt="ASP.NET" /> ASP.NET</a></li>
+        <li><a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-DotNET-512bd4?logo=.net&logoColor=ffffff" alt=".NET" /> .NET</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/ef/"><img src="https://img.shields.io/badge/-Entity%20Framework-7d3c98?logo=entity-framework&logoColor=ffffff" alt="Entity Framework" /> Entity Framework</a></li>
       </ul>
     </td>
   </tr>
 </table>
 
-
 ### Database
-- ![SQL](https://img.shields.io/badge/-SQL-4479a1?logo=microsoftsqlserver&logoColor=ffffff) SQL
+- <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/-SQL-4479a1?logo=microsoftsqlserver&logoColor=ffffff" alt="SQL" /> SQL</a>
 
 ### Version Control
-- ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=ffffff) Git
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff) GitHub
+- <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=ffffff" alt="Git" /> Git</a>
+- <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff" alt="GitHub" /> GitHub</a>
+
 
 
 ## How to Reach Me
