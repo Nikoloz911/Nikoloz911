@@ -36,7 +36,8 @@
   <li><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff" alt="GitHub Badge" /></a> GitHub</li>
 </ul>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikoloz911&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikoloz911&show_icons=true&theme=radical)    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;    ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoloz911&show_icons=true&theme=radical&layout=compact) 
+
 
 
 
