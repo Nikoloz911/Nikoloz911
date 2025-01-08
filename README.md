@@ -1,7 +1,7 @@
 
 <div style="background-color: gray; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
   <strong>Profile Views:</strong> 
-  <img src=" ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nikoloz911)" alt="Profile Views">
+  <img src="![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nikoloz911)" alt="Profile Views">
 </div>
 
 
