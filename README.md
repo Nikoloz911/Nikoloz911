@@ -1,5 +1,5 @@
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nikoloz911)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nikoloz911&style=flat-square&color=orange)
 ### Full-Stack Web Development  
 ### Languages and Tools:  
 
@@ -21,6 +21,8 @@
   <li><a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-5C2D91?logo=aspnet&logoColor=ffffff" alt="ASP.NET Badge" /></a> ASP.NET</li>
   <li><a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512bd4?logo=dotnet&logoColor=ffffff" alt=".NET Badge" /></a> .NET</li>
   <li><a href="https://learn.microsoft.com/en-us/ef/"><img src="https://img.shields.io/badge/Entity%20Framework-7d3c98?logo=entityframework&logoColor=ffffff" alt="Entity Framework Badge" /></a> Entity Framework</li>
+  <li><a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/"><img src="https://img.shields.io/badge/WPF-5C2D91?logo=windows&logoColor=ffffff" alt="WPF Badge" /></a> WPF</li>
+
 </ul>
 
 ### Database:  
@@ -34,7 +36,7 @@
   <li><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff" alt="GitHub Badge" /></a> GitHub</li>
 </ul>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikoloz911&show_icons=true&theme=radical)
 
 
 
