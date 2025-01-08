@@ -5,9 +5,9 @@
 
 ## Languages and Tools
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td>
+    <td style="vertical-align: top; padding-top: 10px;">
       <strong>Frontend</strong>
       <ul>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=ffffff" alt="HTML5" /> HTML</a></li>
@@ -16,14 +16,14 @@
         <li><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=ffffff" alt="Bootstrap" /> Bootstrap</a></li>
         <li><a href="https://css3generator.com/"><img src="https://img.shields.io/badge/-CSS3%20Generator-38b2ac?logo=css3&logoColor=ffffff" alt="CSS3 Generator" /> CSS3 Generator</a></li>
         <li><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" /> Tailwind CSS</a></li>
+        <li><a href="https://animejs.com/"><img src="https://img.shields.io/badge/-Anime.js-00ff00?logo=anime.js&logoColor=ffffff" alt="Anime.js" /> Anime.js</a></li>
+        <li><a href="https://regexr.com/"><img src="https://img.shields.io/badge/-Regex-ff6347?logo=regex&logoColor=ffffff" alt="Regex" /> Regex</a></li>
         <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=ffffff" alt="JavaScript" /> JavaScript</a></li>
         <li><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=ffffff" alt="TypeScript" /> TypeScript</a></li>
         <li><a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-e23237?logo=angular&logoColor=ffffff" alt="Angular" /> Angular</a></li>
-        <li><a href="https://animejs.com/"><img src="https://img.shields.io/badge/-Anime.js-00ff00?logo=anime.js&logoColor=ffffff" alt="Anime.js" /> Anime.js</a></li>
-        <li><a href="https://regexr.com/"><img src="https://img.shields.io/badge/-Regex-ff6347?logo=regex&logoColor=ffffff" alt="Regex" /> Regex</a></li>
       </ul>
     </td>
-    <td>
+    <td style="vertical-align: top; padding-top: 10px;">
       <strong>Backend</strong>
       <ul>
         <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-512bd4?logo=c-sharp&logoColor=ffffff" alt="C#" /> C#</a></li>
@@ -34,6 +34,7 @@
     </td>
   </tr>
 </table>
+
 
 ### Database
 - <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/-SQL-4479a1?logo=microsoftsqlserver&logoColor=ffffff" alt="SQL" /> SQL</a>
