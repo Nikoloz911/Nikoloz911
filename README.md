@@ -1,3 +1,5 @@
+![Alt text](https://github.com/Nikoloz911/Nikoloz911/blob/main/IMG_20250109_192812.jpg?raw=true)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikoloz911&style=flat-square&color=orange)
 ### Languages and Tools:  
