@@ -28,7 +28,6 @@
   </div>
 </ul>
 -->
-## Frontend & Backend
 |                                                                 |                                                   |                                         |                                        |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------------|
 | [![HTML5 Badge](https://img.shields.io/badge/HTML5-FF5722?logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML | [![Anime.js Badge](https://img.shields.io/badge/Anime.js-00ff00?logo=animejs&logoColor=ffffff)](https://animejs.com/) Anime.js | [![C# Badge](https://img.shields.io/badge/C%23-512bd4?logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/) C# | [![SQL Badge](https://img.shields.io/badge/SQL-4479a1?logo=microsoftsqlserver&logoColor=ffffff)](https://www.microsoft.com/en-us/sql-server) SQL |
