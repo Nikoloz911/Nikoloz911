@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/Nikoloz911/Nikoloz911/blob/main/Hello_Wolrd_Image.jpg?raw=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikoloz911&style=flat-square&color=orange)
-### Developer
+### Web Developer
 ### Languages and Tools:  
 
 |                                                                 |                                                   |                                         |                                        |
