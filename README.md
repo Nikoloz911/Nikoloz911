@@ -17,11 +17,9 @@
 
 
 
-## How to Reach Me
-- 📫 You can reach me at: nikalobjanidze014@gmail.com
 
-## Fun Fact
-- ⚡ I spent my time doing this.
+- 📫 You can reach me at: nikalobjanidze014@gmail.com
+- ⚡ Fun fact: I spent my time doing this.
 
 
 
