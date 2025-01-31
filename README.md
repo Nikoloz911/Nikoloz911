@@ -20,7 +20,7 @@
 
 - 📫 You can reach me at: nikalobjanidze014@gmail.com
 - ⚡ Fun fact: I spent my time doing this.
-
+- 🌱 I’m currently learning [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff)](https://www.docker.com/)  &nbsp; [![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
 
 
 
