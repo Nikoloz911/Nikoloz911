@@ -1,8 +1,7 @@
 ![Alt text](https://github.com/Nikoloz911/Nikoloz911/blob/main/Hello_Wolrd_Image.jpg?raw=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikoloz911&style=flat-square&color=orange)
-### Web Developer
-### Languages and Tools:  
+### Software Developer
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-FF5722?logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS3 Badge](https://img.shields.io/badge/CSS3-2965f1?logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![SCSS Badge](https://img.shields.io/badge/SCSS-ff69b4?logo=sass&logoColor=ffffff)](https://sass-lang.com/)  [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)  [![Uiverse IO](https://img.shields.io/badge/Uiverse%20IO-0f62fe?logo=universe&logoColor=ffffff)](https://uiverse.io/)  [![CSS Generator](https://img.shields.io/badge/CSS%20Generator-FF6347?logo=css3&logoColor=ffffff)](https://www.cssportal.com/css-generator/)  [![Regex Badge](https://img.shields.io/badge/Regex-ff6347?logo=regex&logoColor=ffffff)](https://regexr.com/)  [![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)  [![Angular Badge](https://img.shields.io/badge/Angular-e23237?logo=angular&logoColor=ffffff)](https://angular.io/)  
 
