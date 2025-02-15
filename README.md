@@ -14,7 +14,6 @@
 
 
 - 📫 You can reach me at: nikalobjanidze014@gmail.com
-- ⚡ Fun fact: I spent my time doing this.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
