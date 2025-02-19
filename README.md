@@ -12,7 +12,7 @@
 
 
 
-- 📫 You can reach me at: nikalobjanidze014@gmail.com
+# 📫 You can reach me at: nikalobjanidze014@gmail.com
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
