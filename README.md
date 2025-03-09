@@ -10,6 +10,7 @@
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikoloz911&show_icons=true&theme=radical)    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;    ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoloz911&show_icons=true&theme=radical&layout=compact) 
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nikoloz911&theme=light)](https://github.com/Nikoloz911)
 
 
 - 📫 You can reach me at: nikalobjanidze014@gmail.com
