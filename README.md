@@ -1,6 +1,17 @@
 ![Alt text](https://github.com/Nikoloz911/Nikoloz911/blob/main/Hello_Wolrd_Image.jpg?raw=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikoloz911&style=flat-square&color=orange)
+
+#### :information_source: About me
+
+I am Nikoloz Lobzhanidze, a Full Stack Developer from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪, with extensive experience in building robust, efficient, and scalable web applications. My focus is on delivering high-quality solutions that address business needs, ensuring optimal performance and long-term maintainability.
+
+With a strong foundation in C# and ASP.NET for backend development, I create scalable server-side applications, RESTful APIs, and manage complex database interactions.
+
+On the frontend, I specialize in TypeScript and Angular, building dynamic and responsive web applications.
+
+I am passionate about open-source development and actively contribute to the community by sharing my work and collaborating with other developers to build better solutions.
+
 ### ⚡ Technologies:
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-FF5722?logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS3 Badge](https://img.shields.io/badge/CSS3-2965f1?logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![SCSS Badge](https://img.shields.io/badge/SCSS-ff69b4?logo=sass&logoColor=ffffff)](https://sass-lang.com/)  [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)  [![Uiverse IO](https://img.shields.io/badge/Uiverse%20IO-0f62fe?logo=universe&logoColor=ffffff)](https://uiverse.io/)  [![CSS Generator](https://img.shields.io/badge/CSS%20Generator-FF6347?logo=css3&logoColor=ffffff)](https://www.cssportal.com/css-generator/)  [![Regex Badge](https://img.shields.io/badge/Regex-ff6347?logo=regex&logoColor=ffffff)](https://regexr.com/)  [![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)  [![Angular Badge](https://img.shields.io/badge/Angular-e23237?logo=angular&logoColor=ffffff)](https://angular.io/)  
