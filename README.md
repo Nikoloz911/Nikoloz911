@@ -8,7 +8,7 @@
 
 I’m Nikoloz Lobzhanidze, a Full Stack Developer from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪, specializing in building efficient, scalable web applications. 
 
-In Backend development, I am an expert in C# and ASP.NET
+Highly skilled in backend development with C# and ASP.NET.
 
 In Frontend development, I have strong knowledge of Angular and TypeScript to build scalable and responsive web applications.
 
